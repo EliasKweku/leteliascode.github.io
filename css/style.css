@@ -1,0 +1,26 @@
+#imagesize{
+    height: 700px;
+    width:100%;
+    margin: 0px;
+    padding: 0px;
+}
+.thatside{
+    background-color: black;
+    color: gold;
+}
+#col1{
+     margin:200px 10% 100px 10%;
+}
+div.col-4{
+    padding: 0px;
+}
+#midhead{
+    margin-left: 60%;
+}
+.card{
+    height:200px;
+    margin: 20px;
+}
+.boxes{
+    margin: 90px;
+}
